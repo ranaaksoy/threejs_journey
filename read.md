@@ -34,20 +34,8 @@ Hier sind die wichtigsten Projekte in diesem Repository:
 - [21-imported-models](https://github.com/ranaaksoy/threejs_journey/tree/main/21-imported-models/exercises)
 - [22-raycaster-and-mouse-events](https://github.com/ranaaksoy/threejs_journey/tree/main/22-raycaster-and-mouse-events/exercises)
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Folge diesen Befehlen:
-
-``` zsh
-npm install
-
-npm run dev
-
-npm run build
-```
-
 ## Deployment  
-Einige Projekte sind bereits gehostet:  
+Einige Projekte sind bereits deployed:  
 
 🔗 **Live-Demo:** [Haunted House](https://hauntedhouse-black.vercel.app)  
 
