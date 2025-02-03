@@ -42,8 +42,19 @@ Einige Projekte sind bereits deployed:
 🔗 **Live-Demo:** [3d Text](https://3dtext-brown.vercel.app)  
 
 ## 📜 Ressourcen  
-- [Three.js Dokumentation](https://threejs.org/docs/)  
-- [Poly Haven (kostenlose Texturen)](https://polyhaven.com/textures)  
-- [CloudConvert (Formatumwandlung)](https://cloudconvert.com/jpg-to-webp)
-- [ganzer Kurs bei Bruno Simon](https://threejs-journey.com)
+- [Three.js Dokumentation](https://threejs.org/docs/) 
+
+    Three.js Dokumentation: Eine umfassende Ressource für die Nutzung und Implementierung von Three.js, einer beliebten JavaScript-Bibliothek für 3D-Grafiken im Web.
+
+- [Poly Haven (kostenlose Texturen)](https://polyhaven.com/textures)
+
+    Bietet eine Sammlung hochwertiger, kostenloser 3D-Texturen für Projekte, die du ohne Lizenzgebühren verwenden kannst.
+
+- [CloudConvert (Formatumwandlung)](https://cloudconvert.com/jpg-to-webp) 
+
+    Ein Online-Tool zur Umwandlung von Dateiformaten, wie z.B. von JPG zu WebP, und vielen anderen unterstützten Formaten.
+
+- [Ganzer Kurs bei Bruno Simon](https://threejs-journey.com) 
+    
+    Ein umfangreicher Online-Kurs, der dir hilft, Three.js und 3D-Webentwicklung von Grund auf zu lernen.
 
