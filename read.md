@@ -1,4 +1,4 @@
-# Three.js Journey 🚀  
+# Three.js Journey
 
 Dieses Repository enthält verschiedene Projekte, die mit **Three.js** erstellt wurden. Jedes Projekt behandelt unterschiedliche Aspekte der 3D-Webentwicklung, darunter Physik, Beleuchtung, Kamerasteuerung und Shader.  
 
