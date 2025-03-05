@@ -33,6 +33,19 @@ Hier sind die wichtigsten Projekte in diesem Repository:
 - [20-physics](https://github.com/ranaaksoy/threejs_journey/tree/main/20-physics)
 - [21-imported-models](https://github.com/ranaaksoy/threejs_journey/tree/main/21-imported-models/exercises)
 - [22-raycaster-and-mouse-events](https://github.com/ranaaksoy/threejs_journey/tree/main/22-raycaster-and-mouse-events/exercises)
+- [23-Custom models with Blender](https://github.com/ranaaksoy/threejs_journey/tree/main/23-custom-models-with-blender/exercises)
+- [24-Environment map](https://github.com/ranaaksoy/threejs_journey/tree/main/24-environment-map/exercises)
+- [25-Realistic render](https://github.com/ranaaksoy/threejs_journey/tree/main/25-realistic-render)
+- [26-Code-structuring](https://github.com/ranaaksoy/threejs_journey/tree/main/26-code-structuring-for-bigger-projects/exercises)
+
+### **4️⃣ Shaders**
+
+- [27-shaders](https://github.com/ranaaksoy/threejs_journey/tree/main/27-shaders)
+- [28-shader-patterns](https://github.com/ranaaksoy/threejs_journey/tree/main/28-shader-patterns)
+- [29-raging-sea](https://github.com/ranaaksoy/threejs_journey/tree/main/29-raging-sea)
+- [30-animated-galaxy](https://github.com/ranaaksoy/threejs_journey/tree/main/30-animated-galaxy)
+- [31-modified-materials](https://github.com/ranaaksoy/threejs_journey/tree/main/31-modified-materials)
+- [32-coffee-smoke-shader](https://github.com/ranaaksoy/threejs_journey/tree/main/32-coffee-smoke-shader)
 
 ## Deployment  
 Einige Projekte sind bereits deployed:  
@@ -54,7 +67,10 @@ Einige Projekte sind bereits deployed:
 
     Ein Online-Tool zur Umwandlung von Dateiformaten, wie z.B. von JPG zu WebP, und vielen anderen unterstützten Formaten.
 
+- [Book of Shaders, alles rund um die Shaders](https://thebookofshaders.com/?lan=de)
+
+    The Book of Shaders ist ein interaktives Online-Buch, das die Grundlagen und Konzepte von GLSL-Shadern mit praktischen Beispielen vermittelt.
+
 - [Ganzer Kurs bei Bruno Simon](https://threejs-journey.com) 
     
     Ein umfangreicher Online-Kurs, der dir hilft, Three.js und 3D-Webentwicklung von Grund auf zu lernen.
-
